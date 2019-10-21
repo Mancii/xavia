@@ -1,0 +1,33 @@
+@media (max-width: 767px){
+    .padding {
+        padding: 60px 0;
+    }
+    .portfolio-img img.none{
+        display: none
+    }
+    .copy-right{
+        text-align: center
+    }
+    .footer-social{
+        text-align: center
+    }
+}
+
+@media (max-width: 992px){
+    .counter-section {
+        height: auto;
+    }
+    .service-item {
+        margin-bottom: 20px
+    }
+    .counter-item {
+        margin-bottom: 20px
+    }
+
+    .clients-testimonial .client-4{
+        display: none
+    }
+    .clients-testimonial .client-5{
+        top: 66px
+    }
+}
